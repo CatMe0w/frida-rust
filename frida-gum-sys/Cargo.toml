@@ -1,5 +1,6 @@
 [package]
 name = "frida-gum-sys"
+links = "capstone"
 version.workspace = true
 edition.workspace = true
 authors.workspace = true
